@@ -1,0 +1,19 @@
+{
+	"token": "BOT TOKEN HERE",
+
+	"botname": "NAME THE BOT",
+
+	"supportRole": "Support Team",
+
+	"announcementchannel": "announcements",
+	
+	"ticketmessage": "Thank you for opening a support ticket,\nour support team will be here shortly.",
+	
+	"ticketlog": "ticket-logs",
+	
+	"prefix": "-",
+	
+    "colour": "#42f49e",
+	
+    "footer": "Bot Name | v3.1 - By Emerald's Hangout"
+}
